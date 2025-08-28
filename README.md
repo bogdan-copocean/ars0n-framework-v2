@@ -19,6 +19,12 @@ Ars0n Framework v2
 
 <p align="center">My full bug bounty hunting methodology built into a single framework!  Automate the most common bug bounty hunting workflows and <em>Earn While You Learn</em>!</p>
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Kw1tPiVxBTg">
+    <img src="journey.png" width="600px" alt="Youtube Thumbnail" style="border-radius: 12px;">
+  </a>
+</div><br>
+
 <p align="center">The goal of this tool is to eliminate the barrier of entry for bug bounty hunting.  My hope is that someone can pick up this tool and start hunting on day one of their AppSec journey 🚀</p>
 
 <h4 align="center">
